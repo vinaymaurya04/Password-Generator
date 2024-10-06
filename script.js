@@ -10,6 +10,9 @@ const symbolEL=document.getElementById('chk_Symbol');
 const btnGenerate=document.getElementById('btnPasswordGenerate');
 const passeordEL=document.getElementById('txtpassword');
 
+
+// BTN CLICK
+
 btnGenerate.addEventListener('click',function(){
 
     const length=lengthEL.value;
